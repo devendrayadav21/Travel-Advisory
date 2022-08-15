@@ -15,7 +15,7 @@ This is a Travel Companion Application using Google Maps. With Geolocation, Goog
 3. fetching data from Google Maps API And from unlimited sources using RapidAPI
 
 [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-
+<br>
 [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 #
-Setup: run npm start to start the development server
+<b>Setup:</b> run <code><b>npm start</b></code> to start the development server
